@@ -1,7 +1,7 @@
 
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <div align="center">
-<img src="https://github.com/shivamshankarpandey100/shivamshankarpandey100/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
+<img src="https://github.com/Deepak11-coder/Deepak11-coder/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
 <h1 align="center">
@@ -16,7 +16,7 @@
 <img align="right" alt="Shivam Shankar Pandey-linkedin" width="400px" src="https://imgs.search.brave.com/vYohTOrXc0jOiFiPF1yOd6DsdbPM_gCp927Z3LD1heM/rs:fit:640:480:1/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L2ltYWdlcy9jZDM3/ZmE0OWM5ODNhYzkw/NWRmMDAxNmZkNWI2/YTJlZS90ZW5vci5n/aWY_aXRlbWlkPTEz/MTY1MjE2.gif"
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamshankarpandey100&label=Profile%20views&color=0e75b6&style=flat" alt="shivamshankarpandey100" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Deepak11-coder&label=Profile%20views&color=0e75b6&style=flat" alt="Deepak11-coder" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@jshivam_mind" target="blank"><img src="https://img.shields.io/twitter/follow/@jshivam_mind?logo=twitter&style=for-the-badge" alt="@jshivam_mind" /></a> </p>
 
@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **stuff related to programming.**
 
-- 📫 How to reach me my email id **shivamshankarpandey100@gmail.com , sp25.rkt@gmail.com**
+- 📫 How to reach me my email id **Deepak11-coder@gmail.com , sp25.rkt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,17 +44,17 @@
 Cheers,<br />
 Shivam Shankar Pandey<br />
 <h2>Dynamic GraphScale</h2>
-<!--   <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamshankarpandey100&show_icons=true&locale=en&layout=compact" alt="shivamshankarpandey100" /></p>
+<!--   <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Deepak11-coder&show_icons=true&locale=en&layout=compact" alt="Deepak11-coder" /></p>
  -->
    
-[shivamshankarpandey100](https://github.com/shivamshankarpandey100)
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamshankarpandey100&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_radius=7.6" alt="shivamshankarpandey100" /></p>
+[Deepak11-coder](https://github.com/Deepak11-coder)
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Deepak11-coder&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_radius=7.6" alt="Deepak11-coder" /></p>
 </div>
 
 </br>
 <div>
   <h2>Score Point Of GitHub Profile 💹📈📉📊</h2>
-  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamshankarpandey100&theme=neon&show_icons=true" alt="shivamshankarpandey100" /></p>
+  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Deepak11-coder&theme=neon&show_icons=true" alt="Deepak11-coder" /></p>
   <hr style="height:2px;border-width:0;color:blue;background-color:gray"/>
   <details>
     <summary>➡️➡️➡️➡️Please Click On ME⬅️⬅️⬅️⬅️</summary>
@@ -67,19 +67,19 @@ Shivam Shankar Pandey<br />
 
 <!---<div>
   <h2>Live GitHub Streak Rate❤️‍🔥❤️‍🔥❤️‍🔥</h2>
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamshankarpandey100&" alt="shivamshankarpandey100" /></p></div>--->
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak11-coder&" alt="Deepak11-coder" /></p></div>--->
   # 📊 GitHub Streak:
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ShivamShankatrPandey's streak" src="https://streak-stats.demolab.com?user=shivamshankarpandey100&theme=tokyonight-duo&border_radius=9&border=8CDD78&fire=EB5454&currStreakLabel=DDCF14&currStreakNum=55DDC6&dates=1CDD15&stroke=2A63FF&sideLabels=EB9C89"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ShivamShankatrPandey's streak" src="https://streak-stats.demolab.com?user=Deepak11-coder&theme=tokyonight-duo&border_radius=9&border=8CDD78&fire=EB5454&currStreakLabel=DDCF14&currStreakNum=55DDC6&dates=1CDD15&stroke=2A63FF&sideLabels=EB9C89"/>
   </a>
 </p>
 
 </br>
 
 # 📊 GitHub Contribution Graph:
-[![shivam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivamshankarpandey100&theme=react-dark)](https://github.com/shivamshankarpandey100/github-readme-activity-graph)
+[![shivam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Deepak11-coder&theme=react-dark)](https://github.com/Deepak11-coder/github-readme-activity-graph)
 
 </br>
 
@@ -88,7 +88,7 @@ Shivam Shankar Pandey<br />
 
 
 
-shivamshankarpandey100/shivamshankarpandey100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Deepak11-coder/Deepak11-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 </br>
 
