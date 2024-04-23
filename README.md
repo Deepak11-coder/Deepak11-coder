@@ -42,7 +42,7 @@
 
 <div>
 Cheers,<br />
-Shivam Shankar Pandey<br />
+Deepak yadav<br />
 <h2>Dynamic GraphScale</h2>
 <!--   <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Deepak11-coder&show_icons=true&locale=en&layout=compact" alt="Deepak11-coder" /></p>
  -->
