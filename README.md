@@ -31,7 +31,7 @@
 <a href="https://twitter.com/@Deepaky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@deepak y" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/Deepak yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Deepak yadav" height="30" width="40" /></a>
 <a href="https://fb.com/Deepak yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Deepak yadav" height="30" width="40" /></a>
-<a href="https://instagram.com/itz.jshivam__8689" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_deepakk" height="30" width="40" /></a>
+<a href="https://instagram.com/itz_deepakk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_deepakk" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@deepak " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ deepak " height="30" width="40" /></a>
 </p>
 
@@ -72,14 +72,14 @@ Deepak yadav<br />
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ShivamShankatrPandey's streak" src="https://streak-stats.demolab.com?user=Deepak11-coder&theme=tokyonight-duo&border_radius=9&border=8CDD78&fire=EB5454&currStreakLabel=DDCF14&currStreakNum=55DDC6&dates=1CDD15&stroke=2A63FF&sideLabels=EB9C89"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Deepak's streak" src="https://streak-stats.demolab.com?user=Deepak11-coder&theme=tokyonight-duo&border_radius=9&border=8CDD78&fire=EB5454&currStreakLabel=DDCF14&currStreakNum=55DDC6&dates=1CDD15&stroke=2A63FF&sideLabels=EB9C89"/>
   </a>
 </p>
 
 </br>
 
 # 📊 GitHub Contribution Graph:
-[![shivam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Deepak11-coder&theme=react-dark)](https://github.com/Deepak11-coder/github-readme-activity-graph)
+[![Deepak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Deepak11-coder&theme=react-dark)](https://github.com/Deepak11-coder/github-readme-activity-graph)
 
 </br>
 
