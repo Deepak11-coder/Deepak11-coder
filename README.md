@@ -5,26 +5,26 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Friends!+👋;+Welcome+to+My+Repo!+✨✨;+I'm+Shivam+🧑🏼‍💻🧑🏼‍💻;+Come+and+Lets+Starts;+Explore+😁😁+New+Things" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Friends!+👋;+Welcome+to+My+Repo!+✨✨;+I'm+Deepak+🧑🏼‍💻🧑🏼‍💻;+Come+and+Lets+Starts;+Explore+😁😁+New+Things" />
 </h1>
 
 <h1 align="center">
     <img src="[https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Something+About+Me](https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=micro+5&duration=4000&pause=1000&color=0BF000&random=false&width=435&lines=This+is+Something+About+Me+%F0%9F%98%8A%F0%9F%98%8A;" />
 </h1>
 
-<h3 align="center">I am dedicated to telling stories with Computer Science. I am a geek enthusiast trying to explore new technologies. I am experienced in Java and C++ Programming and Data Strutures. I am interested in algorithmic competitions and learning about new technologies and stuffs. In my spare time, I love to take part in competitive programming contests held on various online platforms like Codeforces, Codechef etc.</h3>
-<img align="right" alt="Shivam Shankar Pandey-linkedin" width="400px" src="https://imgs.search.brave.com/vYohTOrXc0jOiFiPF1yOd6DsdbPM_gCp927Z3LD1heM/rs:fit:640:480:1/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L2ltYWdlcy9jZDM3/ZmE0OWM5ODNhYzkw/NWRmMDAxNmZkNWI2/YTJlZS90ZW5vci5n/aWY_aXRlbWlkPTEz/MTY1MjE2.gif"
+<h3 align="center">I am dedicated to telling stories with Computer Science. I am a geek enthusiast trying to explore new technologies. I am experienced in Java and python and Data Strutures. I am interested in algorithmic competitions and learning about new technologies and stuffs. In my spare time, I love to take part in competitive programming contests held on various online platforms like leatcode, Codechef etc.</h3>
+<img align="right" alt="Deepak yadav-linkedin" width="400px" src="https://imgs.search.brave.com/vYohTOrXc0jOiFiPF1yOd6DsdbPM_gCp927Z3LD1heM/rs:fit:640:480:1/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L2ltYWdlcy9jZDM3/ZmE0OWM5ODNhYzkw/NWRmMDAxNmZkNWI2/YTJlZS90ZW5vci5n/aWY_aXRlbWlkPTEz/MTY1MjE2.gif"
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Deepak11-coder&label=Profile%20views&color=0e75b6&style=flat" alt="Deepak11-coder" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@jshivam_mind" target="blank"><img src="https://img.shields.io/twitter/follow/@jshivam_mind?logo=twitter&style=for-the-badge" alt="@jshivam_mind" /></a> </p>
+<p align="left"> <a href="https://Instagram.com/@itz_Deepakk" target="blank"><img src="https://img.shields.io/instagram/follow/@itz_deepakk?logo=instagram &style=for-the-badge" alt="@itz_deepakk" /></a> </p>
 
 - 🌱 I’m currently learning **Java with Data Structure and Algorithm & Node JS.**
 
 - 💬 Ask me about **stuff related to programming.**
 
-- 📫 How to reach me my email id **Deepak11-coder@gmail.com , sp25.rkt@gmail.com**
+- 📫 How to reach me my email id **Deepaky9095@gmail.com , sp25.rkt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
