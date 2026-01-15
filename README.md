@@ -24,15 +24,15 @@
 
 - 💬 Ask me about **stuff related to programming.**
 
-- 📫 How to reach me my email id **Deepaky9095@gmail.com , sp25.rkt@gmail.com**
+- 📫 How to reach me my email id **Deepaky9095@gmail.com , deepaky5553@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@jshivam_mind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jshivam_mind" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shivam shankar pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam shankar pandey" height="30" width="40" /></a>
-<a href="https://fb.com/jshivam pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jshivam pandey" height="30" width="40" /></a>
-<a href="https://instagram.com/itz.jshivam__8689" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz.jshivam__8689" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@shivaminyourmind5142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@shivaminyourmind5142" height="30" width="40" /></a>
+<a href="https://twitter.com/@Deepaky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@deepak y" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Deepak yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Deepak yadav" height="30" width="40" /></a>
+<a href="https://fb.com/Deepak yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Deepak yadav" height="30" width="40" /></a>
+<a href="https://instagram.com/itz.jshivam__8689" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_deepakk" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@deepak " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ deepak " height="30" width="40" /></a>
 </p>
 
 <p size="65px" color="red">FOLLOW ME AND GIVE YOUR SUPPORT</p>
